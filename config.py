@@ -1,4 +1,4 @@
-API = "7205537255:AAGAcdTGl5sOHHkljKEoCm0__tS3FMXVekg"
+API = ""
 
 manikur_cost = 1700
 pedikur_cost = 1200
